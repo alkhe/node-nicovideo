@@ -1,0 +1,65 @@
+{
+  "name": "node-nicovideo",
+  "version": "0.1.1",
+  "description": "niconico video api client.",
+  "keywords": [
+    "niconico",
+    "nicovideo"
+  ],
+  "homepage": "https://github.com/noritama/node-nicovideo",
+  "author": {
+    "name": "noritama",
+    "email": "nori0123@gmail.com",
+    "url": "https://github.com/noritama/"
+  },
+  "bin": {
+    "": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noritama/node-nicovideo.git"
+  },
+  "dependencies": {
+    "request": ">=2.9.202",
+    "xml2js": "*"
+  },
+  "devDependencies": {
+    "mocha": ">=1.0.1",
+    "should": ">=0.6.1",
+    "sinon": ">=1.6.0"
+  },
+  "main": "./lib/index.js",
+  "engines": {
+    "node": ">=0.8.12"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/noritama/node-nicovideo/issues"
+  },
+  "_id": "node-nicovideo@0.1.1",
+  "dist": {
+    "shasum": "38bf5cb7379647ff1f492ee7790aea895d4f9f08",
+    "tarball": "http://registry.npmjs.org/node-nicovideo/-/node-nicovideo-0.1.1.tgz"
+  },
+  "_from": "node-nicovideo@",
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "noritama",
+    "email": "nori0123@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "noritama",
+      "email": "nori0123@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "38bf5cb7379647ff1f492ee7790aea895d4f9f08",
+  "_resolved": "https://registry.npmjs.org/node-nicovideo/-/node-nicovideo-0.1.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
